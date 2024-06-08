@@ -9,12 +9,13 @@ import Main from "./main/Main";
 import Home from "./pages/Home";
 import Shop from "./pages/Shop";
 import ContactForm from "./pages/ContactForm";
+import Error from "./components/Error";
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <Main></Main>,
-    errorElement: <h1>error</h1>,
+    errorElement: <Error></Error>,
     children: [
       {
         path: '/',
