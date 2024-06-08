@@ -1,0 +1,35 @@
+#root{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.divItemCenter{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.primary{
+  background: #440001;
+  color: #FCDABF;
+}
+.secondary{
+  color: #440001;
+  background: #FCDABF;
+}
+tr{
+  border-bottom: 1px solid #440001; 
+}
+
+.lora-font {
+  @apply font-lora;
+  font-optical-sizing: auto;
+  font-style: normal;
+}

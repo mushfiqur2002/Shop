@@ -1,0 +1,178 @@
+[
+    {
+        "id": 1,
+        "name": "Cotton Panjabi",
+        "description": "Comfortable cotton panjabi for casual wear.",
+        "price": 25.99,
+        "image": "../src/assets/products/panjabi/01.jpg",
+        "category": "Panjabi"
+    },
+    {
+        "id": 2,
+        "name": "Cotton Panjabi",
+        "description": "Comfortable cotton panjabi for casual wear.",
+        "price": 25.99,
+        "image": "../src/assets/products/panjabi/02.jpg",
+        "category": "Panjabi"
+    },
+    {
+        "id": 3,
+        "name": "Cotton Panjabi",
+        "description": "Comfortable cotton panjabi for casual wear.",
+        "price": 25.99,
+        "image": "../src/assets/products/panjabi/03.jpg",
+        "category": "Panjabi"
+    },
+    {
+        "id": 4,
+        "name": "Cotton Panjabi",
+        "description": "Comfortable cotton panjabi for casual wear.",
+        "price": 25.99,
+        "image": "../src/assets/products/panjabi/04.jpg",
+        "category": "Panjabi"
+    },
+    {
+        "id": 5,
+        "name": "Cotton Panjabi",
+        "description": "Comfortable cotton panjabi for casual wear.",
+        "price": 25.99,
+        "image": "../src/assets/products/panjabi/05.jpg",
+        "category": "Panjabi"
+    },
+    {
+        "id": 6,
+        "name": "Floral Perfume",
+        "description": "A light, floral fragrance perfect for everyday use.",
+        "price": 19.99,
+        "image": "../src/assets/products/perfume/01.jpg",
+        "category": "Perfume"
+    },
+    {
+        "id": 7,
+        "name": "Floral Perfume",
+        "description": "A light, floral fragrance perfect for everyday use.",
+        "price": 19.99,
+        "image": "../src/assets/products/perfume/02.jpg",
+        "category": "Perfume"
+    },
+    {
+        "id": 8,
+        "name": "Floral Perfume",
+        "description": "A light, floral fragrance perfect for everyday use.",
+        "price": 19.99,
+        "image": "../src/assets/products/perfume/03.jpg",
+        "category": "Perfume"
+    },
+    {
+        "id": 9,
+        "name": "Floral Perfume",
+        "description": "A light, floral fragrance perfect for everyday use.",
+        "price": 19.99,
+        "image": "../src/assets/products/perfume/04.jpg",
+        "category": "Perfume"
+    },
+    {
+        "id": 10,
+        "name": "Woody Perfume",
+        "description": "A deep, woody scent for a lasting impression.",
+        "price": 29.99,
+        "image": "../src/assets/products/perfume/05.jpg",
+        "category": "Perfume"
+    },
+    {
+        "id": 11,
+        "name": "wallet",
+        "description": "Elegant silk tie for formal attire.",
+        "price": 15.99,
+        "image": "../src/assets/products/wallet/01.jpg",
+        "category": "Wallet"
+    },
+    {
+        "id": 12,
+        "name": "wallet",
+        "description": "Elegant silk tie for formal attire.",
+        "price": 15.99,
+        "image": "../src/assets/products/wallet/02.jpg",
+        "category": "Wallet"
+    },
+    {
+        "id": 13,
+        "name": "wallet",
+        "description": "Elegant silk tie for formal attire.",
+        "price": 15.99,
+        "image": "../src/assets/products/wallet/03.jpg",
+        "category": "Wallet"
+    },
+    {
+        "id": 14,
+        "name": "wallet",
+        "description": "Elegant silk tie for formal attire.",
+        "price": 15.99,
+        "image": "../src/assets/products/wallet/04.jpg",
+        "category": "Wallet"
+    },
+    {
+        "id": 15,
+        "name": "Patterned Tie",
+        "description": "Stylish patterned tie to add flair to your outfit.",
+        "price": 12.99,
+        "image": "../src/assets/products/tie/01.jpg",
+        "category": "Tie"
+    },
+    {
+        "id": 16,
+        "name": "Patterned Tie",
+        "description": "Stylish patterned tie to add flair to your outfit.",
+        "price": 12.99,
+        "image": "../src/assets/products/tie/02.jpg",
+        "category": "Tie"
+    },
+    {
+        "id": 17,
+        "name": "Patterned Tie",
+        "description": "Stylish patterned tie to add flair to your outfit.",
+        "price": 12.99,
+        "image": "../src/assets/products/tie/03.jpg",
+        "category": "Tie"
+    },
+    {
+        "id": 18,
+        "name": "Patterned Tie",
+        "description": "Stylish patterned tie to add flair to your outfit.",
+        "price": 12.99,
+        "image": "../src/assets/products/tie/04.jpg",
+        "category": "Tie"
+    },
+    {
+        "id": 19,
+        "name": "Leather Belt",
+        "description": "Durable leather belt for everyday use.",
+        "price": 19.99,
+        "image": "../src/assets/products/belt/01.jpg",
+        "category": "Belt"
+    },
+    {
+        "id": 20,
+        "name": "Leather Belt",
+        "description": "Durable leather belt for everyday use.",
+        "price": 19.99,
+        "image": "../src/assets/products/belt/02.jpg",
+        "category": "Belt"
+    },
+    {
+        "id": 21,
+        "name": "Leather Belt",
+        "description": "Durable leather belt for everyday use.",
+        "price": 19.99,
+        "image": "../src/assets/products/belt/03.jpg",
+        "category": "Belt"
+    },
+    {
+        "id": 22,
+        "name": "Casual Belt",
+        "description": "Casual belt suitable for jeans and casual wear.",
+        "price": 14.99,
+        "image": "../src/assets/products/belt/04.jpg",
+        "category": "Belt"
+    }
+]
