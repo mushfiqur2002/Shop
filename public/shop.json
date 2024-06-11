@@ -174,5 +174,13 @@
         "price": 14.99,
         "image": "../src/assets/products/belt/04.jpg",
         "category": "Belt"
+    },
+    {
+        "id": 23,
+        "name": "kala Belt",
+        "description": "Casual belt suitable for jeans and casual wear.",
+        "price": 14.99,
+        "image": "../src/assets/products/panjabi/06.jpg",
+        "category": "Belt"
     }
 ]
